@@ -1,16 +1,31 @@
-### Hi there 👋
-
-<!--
-**Lcrescent3es/Lcrescent3es** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 카카오클라우드스쿨
+안녕하세요, Jade 입니다. 클라우드 개발자 및 서버+시스템 관리자를 목표로 하고 있습니다. 감사합니다.
+<br />
+<br />
+<br />
+## 이런것들을 배워보고 싶어요
+도커 환경에서 개발 및 자동 배포까지<br />
+서버를 안정적으로 운영하기<br />
+오류 발생시 빠르게 해결하는 방법<br />
+<br />
+<br />
+<br />
+## How i work
+항상 컴퓨터 앞에 앉아 있는것을 좋아합니다. 컴퓨터와 관련된 일이라면 뭐든지 좋아합니다.
+<br />
+<br />
+<br />
+#### I use it before.
+<div style="display:flex;gap:30px;flex-wrap:wrap;">
+  <img src="https://img.shields.io/badge/js-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/ts-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white">
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=Kubernetes&logoColor=white">
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
+</div>
+<br />
+<br />
+<br />
