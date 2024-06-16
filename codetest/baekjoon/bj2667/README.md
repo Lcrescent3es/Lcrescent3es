@@ -1,4 +1,4 @@
-# 단지번호붙이기 - 2667번
+# 단지번호붙이기(Silver 1) - 2667번
 - [링크](https://www.acmicpc.net/problem/2667)
 
 ### 문제
