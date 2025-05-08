@@ -3,17 +3,20 @@
 <br />
 <br />
 <br />
+
 ## 연혁
 - 최종학력: 계명대학교 컴퓨터공학전공
 - 교육: 카카오클라우드스쿨 in JEJU
 <br />
 <br />
 <br />
+
 ## 자기자랑
-[포트폴리오](https://shelled-felidae-c85.notion.site/44b3c037025c41c4a3fefe0d605802a0?pvs=74")
+- [포트폴리오](https://shelled-felidae-c85.notion.site/44b3c037025c41c4a3fefe0d605802a0?pvs=74")
 <br />
 <br />
 <br />
+
 #### 기술스택
 <div style="display:flex;gap:30px;flex-wrap:wrap;">
   <img src="https://img.shields.io/badge/js-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
