@@ -1,20 +1,21 @@
-## 카카오클라우드스쿨
-안녕하세요, Jade 입니다. 클라우드 개발자 및 서버+시스템 관리자를 목표로 하고 있습니다. 감사합니다.
+## 자기소개
+주니어 백엔드 개발자를 목표로 하고 있는 개발자입니다.
+
 <br />
 <br />
 <br />
-## 이런것들을 배워보고 싶어요
-도커 환경에서 개발 및 자동 배포까지<br />
-서버를 안정적으로 운영하기<br />
+## 연혁
+- 최종학력: 계명대학교 컴퓨터공학전공
+- 교육: 카카오클라우드스쿨 in JEJU
 <br />
 <br />
 <br />
-## How i work
-컴퓨터와 관련된 일이라면 뭐든지 좋아합니다. 정해진 목표를 두고 자유로운 분위기에서 일하는 것이 좋습니다.
+## 자기자랑
+[포트폴리오](https://shelled-felidae-c85.notion.site/44b3c037025c41c4a3fefe0d605802a0?pvs=74")
 <br />
 <br />
 <br />
-#### I use it before.
+#### 기술스택
 <div style="display:flex;gap:30px;flex-wrap:wrap;">
   <img src="https://img.shields.io/badge/js-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/ts-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
